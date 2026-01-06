@@ -1,4 +1,4 @@
-# scalable-data-pipeline-pyspark
+# Scalable-data-pipeline-pyspark
 Production-style PySpark data pipeline implementing a Bronze–Silver–Gold architecture to transform raw e-commerce event data into analytics-ready business metrics.
 
 ---
@@ -32,6 +32,15 @@ README.md → Documentation
 
 ```
 ---
+
+## How to Run
+
+1. Open the notebook in **Google Colab**
+2. Run all cells from top to bottom
+3. The pipeline generates synthetic event data and produces Bronze, Silver, and Gold layer outputs
+
+---
+
 ## Tech Stack
 
 - PySpark
